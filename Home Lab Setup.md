@@ -1,10 +1,3 @@
----
-title: Home Lab Config
-body_classes: title-center title-h1h2
----
-
-# The Moose Lab
-
 ## current System diagram
 
 !!! Space reserved for sysdiagram
